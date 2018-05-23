@@ -1,3 +1,6 @@
+#NOTICE
+This is a fork of [scanless](https://github.com/vesche/scanless) for personal research and experiments. Please use original repository
+
 # scanless
 
 Command-line utility for using websites that can perform port scans on your behalf.
